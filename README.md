@@ -1,1 +1,1 @@
-the version of the emulators that are present in the USB stick can also be old so you should always check the appropriate websites if new versions are released. To use the ROMs you must first extract them
+

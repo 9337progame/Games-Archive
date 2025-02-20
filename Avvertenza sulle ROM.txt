@@ -1,1 +1,1 @@
-la maggior parte delle ROM sono in zip e in 7z.Prima di inserirle e caricare in qualsiasi emulatore bisogna estrarli
+Most of the ROMs are in zip and 7z. Before inserting and loading them in any emulator you have to extract them
